@@ -97,6 +97,32 @@ PRs are very welcome – add anything you’ve personally found useful.
 
 ---
 
+## Deep dives by theme
+
+- **Restaking / AVS**
+  - [EigenLayer Docs](https://docs.eigenlayer.xyz/) – core restaking + AVS model.
+  - [EigenLayer whitepaper](https://www.eigenlayer.xyz/whitepaper) – design + threat model.
+
+- **Perps, options & leverage**
+  - [GMX Docs](https://gmxio.gitbook.io/gmx/) – perp DEX design and tokenomics.
+  - [Lyra Docs](https://docs.lyra.finance/) – options AMM mechanics.
+  - [Synthetix Docs](https://docs.synthetix.io/) – perps + synthetic assets infra.
+
+- **RWA & stablecoins**
+  - [MakerDAO Docs](https://docs.makerdao.com/) – DAI, vaults, RWA collateral.
+  - [Frax Docs](https://docs.frax.finance/) – FRAX, frxETH, sfrxETH, Fraxlend.
+
+- **Account abstraction & intents**
+  - [ERC‑4337 spec](https://eips.ethereum.org/EIPS/eip-4337)
+  - [StackUp ERC‑4337 docs](https://docs.stackup.sh/docs) – practical AA dev guide.
+
+- **L2s & rollups**
+  - [Optimism Docs](https://community.optimism.io/docs/) – OP Stack architecture.
+  - [Arbitrum Docs](https://docs.arbitrum.io/) – Nitro rollup design.
+  - [zkSync Docs](https://docs.zksync.io/) – zk rollup contracts & architecture.
+
+---
+
 ## Standards, libraries & tooling
 
 - **Standards**
