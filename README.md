@@ -104,8 +104,37 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Trail of Bits Security Practices](https://github.com/crytic/building-secure-contracts) – comprehensive security guide.
   - [Rekt Leaderboard](https://rekt.news/leaderboard/) – learn from past exploits.
   - [Immunefi Bug Bounties](https://immunefi.com/) – see real bug reports and fixes.
+  - [DeFi Threat Matrix](https://github.com/0xKitsune/DeFi-Threat-Matrix) – comprehensive threat model.
+  - [Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) – security guidelines.
+  - [Secureum](https://secureum.xyz/) – security education and resources.
+  - [Ethereum Security](https://ethereum.org/en/developers/docs/security/) – official security docs.
 
-- **Tools**
+- **Vulnerability databases & incident tracking**
+  - [SWC Registry](https://swcregistry.io/) – Smart Contract Weakness Classification.
+  - [CWE List](https://cwe.mitre.org/) – Common Weakness Enumeration.
+  - [Rekt News](https://rekt.news/) – post-mortems of major exploits.
+  - [DeFi Pulse Risk](https://defipulse.com/risk) – protocol risk assessments.
+  - [HackenProof](https://hackenproof.com/) – bug bounty platform with reports.
+  - [Code4rena](https://code4rena.com/) – competitive audit platform.
+
+- **Security courses & certifications**
+  - [Secureum Bootcamp](https://secureum.xyz/bootcamp) – comprehensive security training.
+  - [Cyfrin Updraft](https://updraft.cyfrin.io/) – security-focused Solidity course.
+  - [RareSkills Security Course](https://www.rareskills.io/security) – advanced security training.
+  - [Consensys Academy](https://consensys.net/academy/) – blockchain security courses.
+  - [Blockchain Security Alliance](https://blockchainsecurityalliance.org/) – security resources.
+
+- **Audit firms & reports**
+  - [OpenZeppelin Audits](https://blog.openzeppelin.com/security-audits/) – audit reports.
+  - [Trail of Bits Audits](https://github.com/trailofbits/publications) – security research.
+  - [Consensys Diligence](https://consensys.io/diligence/audits/) – audit reports.
+  - [CertiK](https://www.certik.com/) – security audits and monitoring.
+  - [Quantstamp](https://quantstamp.com/) – automated and manual audits.
+  - [MixBytes](https://mixbytes.io/) – security audits.
+  - [ChainSecurity](https://chainsecurity.com/) – formal verification and audits.
+  - [Least Authority](https://leastauthority.com/) – security audits.
+
+- **Security tools**
   - [Slither](https://github.com/crytic/slither) – static analysis.
   - [Echidna](https://github.com/crytic/echidna) – property‑based / fuzz testing.
   - [Foundry](https://github.com/foundry-rs/foundry) – fast testing, fuzzing, and deployment.
@@ -116,6 +145,26 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Certora](https://www.certora.com/) – formal verification (commercial).
   - [Tenderly](https://tenderly.co/) – debugging and monitoring.
   - [4naly3er](https://github.com/Picodes/4naly3er) – gas optimization analyzer.
+  - [Scribble](https://github.com/Consensys/scribble) – specification language for fuzzing.
+  - [Diligence Fuzzing](https://github.com/crytic/building-secure-contracts) – fuzzing guide.
+  - [Surya](https://github.com/Consensys/surya) – contract analysis tool.
+  - [MythX](https://mythx.io/) – security analysis API.
+  - [Securify](https://securify.chainsecurity.com/) – security scanner.
+  - [Oyente](https://github.com/melonproject/oyente) – static analysis tool.
+
+- **Security monitoring & incident response**
+  - [Forta](https://forta.org/) – decentralized security monitoring.
+  - [Tenderly Alerts](https://tenderly.co/alerts) – transaction monitoring.
+  - [OpenZeppelin Defender](https://defender.openzeppelin.com/) – security operations.
+  - [Pashov's Security Checklist](https://pashovkrum.medium.com/audit-smart-contracts-checklist-2023-677b63cfe0a3) – pre-audit checklist.
+  - [Incident Response Plan](https://github.com/ethereum/ethereum-org-website/blob/dev/src/content/developers/docs/security/incident-response/index.md) – incident handling.
+
+- **Security research & papers**
+  - [Trail of Bits Research](https://blog.trailofbits.com/) – security research blog.
+  - [Consensys Research](https://consensys.net/research/) – blockchain research.
+  - [a16z Crypto Security](https://a16zcrypto.com/tag/security/) – security insights.
+  - [Paradigm Security](https://www.paradigm.xyz/security) – security research.
+  - [IACR Cryptology ePrint](https://eprint.iacr.org/) – cryptography papers.
 
 ---
 
@@ -299,6 +348,89 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [EVM Playground](https://www.evm.codes/playground) – test EVM bytecode.
   - [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) – Ethereum protocol spec.
   - [EVM Deep Dives](https://noxx3xxon.notion.site/noxx3xxon/EVM-Deep-Dives-b76f1c3d14764a20995e4a4e8a4fbc1a) – EVM internals.
+
+---
+
+## Blockchain development resources
+
+- **Blockchain fundamentals**
+  - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) – original Ethereum vision.
+  - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) – foundational blockchain paper.
+  - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) – comprehensive Bitcoin guide.
+  - [Blockchain Basics](https://ethereum.org/en/developers/docs/intro-to-ethereum/) – Ethereum intro.
+  - [How Ethereum Works](https://ethereum.org/en/developers/docs/ethereum-stack/) – Ethereum stack.
+  - [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp) – basic concepts.
+
+- **Consensus mechanisms**
+  - [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/) – PoS explained.
+  - [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/) – PoW explained.
+  - [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault) – BFT concepts.
+  - [Casper FFG](https://arxiv.org/abs/1710.09437) – Ethereum's PoS protocol.
+  - [Tendermint](https://docs.tendermint.com/) – BFT consensus engine.
+  - [HotStuff](https://arxiv.org/abs/1803.05069) – BFT consensus algorithm.
+
+- **Cryptography basics**
+  - [Applied Cryptography](https://www.schneier.com/books/applied-cryptography/) – classic crypto book.
+  - [Cryptography I (Coursera)](https://www.coursera.org/learn/crypto) – Stanford crypto course.
+  - [Hash Functions](https://ethereum.org/en/developers/docs/ethereum-stack/hashing/) – hashing in blockchain.
+  - [Digital Signatures](https://ethereum.org/en/developers/docs/transactions/) – ECDSA and signatures.
+  - [Merkle Trees](https://ethereum.org/en/developers/docs/data-structures-and-encoding/merkle-patricia-trie/) – Merkle tree structures.
+  - [Elliptic Curve Cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) – ECC basics.
+
+- **Network protocols & P2P**
+  - [Ethereum P2P](https://github.com/ethereum/devp2p) – Ethereum networking protocol.
+  - [LibP2P](https://libp2p.io/) – modular P2P networking stack.
+  - [Gossip Protocols](https://en.wikipedia.org/wiki/Gossip_protocol) – gossip protocol basics.
+  - [Kademlia DHT](https://en.wikipedia.org/wiki/Kademlia) – distributed hash table.
+  - [Ethereum Wire Protocol](https://github.com/ethereum/devp2p/blob/master/caps/eth.md) – ETH protocol spec.
+
+- **Node operation & infrastructure**
+  - [Running an Ethereum Node](https://ethereum.org/en/developers/docs/nodes-and-clients/) – node setup.
+  - [Geth](https://geth.ethereum.org/) – Go Ethereum client.
+  - [Erigon](https://github.com/ledgerwatch/erigon) – efficient Ethereum client.
+  - [Nethermind](https://nethermind.io/) – .NET Ethereum client.
+  - [Besu](https://besu.hyperledger.org/) – Java Ethereum client.
+  - [Node Monitoring](https://ethereum.org/en/developers/docs/nodes-and-clients/node-monitoring/) – monitoring guides.
+  - [MEV-Boost](https://boost.flashbots.net/) – MEV infrastructure.
+
+- **Blockchain architecture**
+  - [Ethereum Architecture](https://ethereum.org/en/developers/docs/ethereum-stack/) – system architecture.
+  - [State Management](https://ethereum.org/en/developers/docs/state/) – blockchain state.
+  - [Transaction Lifecycle](https://ethereum.org/en/developers/docs/transactions/) – tx processing.
+  - [Block Structure](https://ethereum.org/en/developers/docs/blocks/) – block anatomy.
+  - [Gas & Fees](https://ethereum.org/en/developers/docs/gas/) – gas mechanism.
+  - [Storage](https://ethereum.org/en/developers/docs/storage/) – contract storage.
+
+- **Cross-chain & interoperability**
+  - [Chainlink CCIP](https://chain.link/cross-chain) – cross-chain infrastructure.
+  - [Wormhole](https://docs.wormhole.com/) – cross-chain messaging.
+  - [LayerZero](https://docs.layerzero.network/) – omnichain interoperability.
+  - [Axelar](https://docs.axelar.dev/) – cross-chain communication.
+  - [IBC Protocol](https://ibc.cosmos.network/) – Inter-Blockchain Communication.
+  - [Polkadot XCM](https://wiki.polkadot.network/docs/xcm-overview) – cross-consensus messaging.
+
+- **MEV (Maximal Extractable Value)**
+  - [Flashbots](https://docs.flashbots.net/) – MEV research and infrastructure.
+  - [MEV-Boost](https://boost.flashbots.net/) – MEV infrastructure for validators.
+  - [MEV Research](https://ethereum.org/en/developers/docs/mev/) – MEV explained.
+  - [MEV-Share](https://docs.flashbots.net/flashbots-mev-share/overview) – MEV sharing protocol.
+  - [EigenPhi](https://eigenphi.io/) – MEV analytics.
+  - [MEV-Boost Relay List](https://boost.flashbots.net/) – relay infrastructure.
+
+- **Oracles & data feeds**
+  - [Chainlink](https://docs.chain.link/) – decentralized oracle network.
+  - [Pyth Network](https://docs.pyth.network/) – price oracle network.
+  - [UMA](https://docs.umaproject.org/) – optimistic oracle.
+  - [API3](https://docs.api3.org/) – first-party oracles.
+  - [Band Protocol](https://docs.bandchain.org/) – cross-chain oracle.
+  - [Tellor](https://docs.tellor.io/tellor/) – decentralized oracle.
+
+- **Blockchain research & papers**
+  - [Ethereum Research](https://ethresear.ch/) – research forum.
+  - [Vitalik's Blog](https://vitalik.ca/) – Ethereum co-founder's research.
+  - [a16z Crypto Research](https://a16zcrypto.com/research/) – crypto research.
+  - [Paradigm Research](https://www.paradigm.xyz/writing) – protocol research.
+  - [ArXiv Cryptography](https://arxiv.org/list/cs.CR/recent) – latest crypto papers.
 
 ## How to use this repo
 
