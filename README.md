@@ -11,6 +11,37 @@ PRs are very welcome – add anything you’ve personally found useful.
 
 ---
 
+## Recommended learning paths
+
+- **1. Smart contract developer path**
+  - Start: [Solidity by Example](https://solidity-by-example.org/) → [CryptoZombies](https://cryptozombies.io/).
+  - Then: [Solidity Docs](https://docs.soliditylang.org/en/latest/) + [Ethereum Developer Docs](https://ethereum.org/en/developers/docs/).
+  - Build: [Speed Run Ethereum](https://speedrunethereum.com/) + [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth-2).
+  - Deepen: [EVM Handbook](https://noxx3xxon.notion.site/noxx3xxon/EVM-Handbook-bb38e175cc404111a391907c4975426d) + read real protocol repos from the table above.
+
+- **2. Smart contract security / auditing path**
+  - Start: [Cyfrin Updraft](https://updraft.cyfrin.io/) + [Secureum](https://secureum.xyz/).
+  - Practice: [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) + [Ethernaut](https://ethernaut.openzeppelin.com/).
+  - Read: [SWC Registry](https://swcregistry.io/) + [Rekt Leaderboard](https://rekt.news/leaderboard/).
+  - Deepen: Pick an audit firm (Trail of Bits, OpenZeppelin, Consensys) and read full audit reports for 2–3 protocols from this README.
+
+- **3. DeFi protocol designer path**
+  - Theory: [Paradigm research posts](https://www.paradigm.xyz) + [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map).
+  - Case studies: Uniswap v2/v3 whitepapers + Aave, MakerDAO, Curve docs and repos.
+  - Practice: Model simple AMMs, lending, and stablecoin systems, then compare to real-world implementations linked above.
+
+- **4. Zero-knowledge & ZK engineer path**
+  - Start: [ZK Learning Path](https://learn.0xparc.org/) + [ZK Whiteboard Sessions](https://www.youtube.com/playlist?list=PLj80z0cJm8QFnY6VLVa84nr-21DNvjWH7).
+  - Practice: [ZK Hack](https://www.zkhack.dev/) + basic [Circom](https://docs.circom.io/) circuits with [SnarkJS](https://github.com/iden3/snarkjs).
+  - Deepen: Explore one zkEVM (zkSync, Polygon zkEVM, Scroll) and read their docs + contracts.
+
+- **5. Full-stack Web3 / infra path**
+  - Start: [Buildspace](https://buildspace.so/) or [LearnWeb3](https://learnweb3.io/).
+  - Stack: pick `Foundry + Hardhat + Ethers.js + Wagmi + Next.js` and ship a small dApp using protocols listed above.
+  - Infra: use [Alchemy](https://www.alchemy.com/), [Infura](https://www.infura.io/), or [QuickNode](https://www.quicknode.com/) + [The Graph](https://thegraph.com/).
+
+---
+
 ## Battle‑tested protocol contracts
 
 | Protocol         | Type             | Repository                                            | Documentation                                                   | The Bytecode Episode                                                            |
