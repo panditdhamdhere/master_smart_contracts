@@ -77,6 +77,16 @@ PRs are very welcome – add anything you’ve personally found useful.
 | **Notional**     | Fixed-Rate Lending | https://github.com/notional-finance/contracts-v2    | [Docs](https://docs.notional.finance/)                          | N/A                                                                             |
 | **Gearbox**      | Leveraged DeFi   | https://github.com/Gearbox-protocol/core-v2           | [Docs](https://docs.gearbox.fi/)                                | N/A                                                                             |
 | **Frax**         | Stablecoin / LSD | https://github.com/FraxFinance/frax-solidity          | [Docs](https://docs.frax.finance/)                              | N/A                                                                             |
+| **Spark**        | Lending          | https://github.com/marsfoundation/sparklend           | [Docs](https://docs.spark.fi/)                                  | N/A                                                                             |
+| **dYdX V4**      | Perps            | https://github.com/dydxprotocol/v4-chain              | [Docs](https://docs.dydx.exchange/)                             | N/A                                                                             |
+| **1inch**        | DEX Aggregator   | https://github.com/1inch/fusion-resolver              | [Docs](https://docs.1inch.io/)                                  | N/A                                                                             |
+| **Blur**         | NFT Marketplace  | https://github.com/blur-io/exchange                   | [Docs](https://docs.blur.foundation/)                           | N/A                                                                             |
+| **Cowswap**      | DEX Aggregator   | https://github.com/cowprotocol/contracts              | [Docs](https://docs.cow.fi/)                                    | N/A                                                                             |
+| **Angle**        | Stablecoin       | https://github.com/AngleProtocol/angle-core           | [Docs](https://docs.angle.money/)                               | N/A                                                                             |
+| **Prisma**       | Liquid Restaking | https://github.com/prisma-fi/prisma-core              | [Docs](https://docs.prismafinance.com/)                         | N/A                                                                             |
+| **Reserve**      | Stablecoin / RWA | https://github.com/reserve-protocol/protocol          | [Docs](https://docs.reserve.org/)                               | N/A                                                                             |
+| **Hyperliquid**  | Perps            | https://github.com/hyperliquid-dex/hyperliquid-contracts | [Docs](https://hyperliquid.gitbook.io/hyperliquid-docs)     | N/A                                                                             |
+| **LooksRare**    | NFT Marketplace  | https://github.com/LooksRare/contracts-libs           | [Docs](https://docs.looksrare.org/)                             | N/A                                                                             |
 
 ---
 
@@ -90,6 +100,10 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Learn Solidity](https://www.learnsolidity.io/) – interactive Solidity course.
   - [Ethereum.org Learn](https://ethereum.org/en/developers/learning-tools/) – curated learning paths.
   - [Speed Run Ethereum](https://speedrunethereum.com/) – build DeFi dApps step-by-step.
+  - [Patrick Collins freeCodeCamp](https://www.youtube.com/watch?v=umepbfKp5rI) – 16‑hour Solidity course.
+  - [Alchemy Road to Web3](https://www.alchemy.com/road-to-web3) – project‑based Web3 tutorials.
+  - [Web3 University](https://www.web3.university/) – curated Web3 learning paths.
+  - [Pointer.gg Solidity](https://www.pointer.gg/) – interactive Solidity challenges.
 
 - **DeFi / advanced patterns**
   - [Paradigm research posts](https://www.paradigm.xyz) – design‑level thinking about DeFi protocols.
@@ -98,6 +112,8 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map) – comprehensive DeFi learning path.
   - [DeFiLlama Learn](https://defillama.com/learn) – DeFi protocol explanations.
   - [RareSkills Solidity Bootcamp](https://www.rareskills.io/) – advanced Solidity training.
+  - [Aave V3 Technical Paper](https://github.com/aave/aave-v3-core/blob/master/techpaper/Aave_V3_Technical_Paper.pdf) – lending protocol design.
+  - [Curve Finance Docs](https://docs.curve.fi/) – stableswap AMM mechanics.
 
 - **Long‑form content**
   - *Mastering Ethereum* (G. Wood, A. Antonopoulos) – good EVM / protocol background.
@@ -113,6 +129,9 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [The Defiant](https://thedefiant.io) – daily DeFi news + explainers.
   - [Bankless](https://bankless.com) – DeFi, restaking, L2s, and broader crypto.
   - [Blockworks Research](https://blockworks.co/research) – deep dives on newer protocols.
+  - [The Block](https://www.theblock.co/) – crypto news and research.
+  - [Messari Research](https://messari.io/research) – protocol analysis and reports.
+  - [Delphi Digital](https://members.delphidigital.io/) – DeFi and market research.
 
 - **Code‑first content**
   - [Smart Contract Programmer](https://www.youtube.com/@smartcontractprogrammer) – Solidity patterns and walkthroughs.
@@ -122,6 +141,9 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Eat The Blocks](https://www.youtube.com/@EatTheBlocks) – Solidity and Web3 development.
   - [Austin Griffith](https://www.youtube.com/@austingriffith) – scaffold-eth and builder content.
   - [Finematics](https://www.youtube.com/@Finematics) – DeFi concepts explained simply.
+  - [Patrick Collins (freeCodeCamp)](https://www.youtube.com/@freecodecamp) – full Solidity courses.
+  - [Will it Scale](https://www.youtube.com/@willitscale) – protocol deep dives.
+  - [The Bytecode (shafu)](https://www.youtube.com/@shafu) – protocol walkthrough series.
 
 ---
 
@@ -129,6 +151,7 @@ PRs are very welcome – add anything you’ve personally found useful.
 
 - **Must‑read**
   - [SWC Registry](https://swcregistry.io/) – catalog of common smart contract vulns.
+  - [Ethernaut](https://ethernaut.openzeppelin.com/) – gamified Solidity security challenges.
   - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) – hands‑on hacking challenges.
   - [Consensys Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/) – classic checklist.
   - [OpenZeppelin Security Audits](https://blog.openzeppelin.com/security-audits) – read real audit reports.
@@ -236,6 +259,8 @@ PRs are very welcome – add anything you’ve personally found useful.
 - **Restaking / AVS**
   - [EigenLayer Docs](https://docs.eigenlayer.xyz/) – core restaking + AVS model.
   - [EigenLayer whitepaper](https://www.eigenlayer.xyz/whitepaper) – design + threat model.
+  - [Kelp DAO](https://kelpdao.xyz/) – liquid restaking tokens.
+  - [Renzo](https://docs.renzoprotocol.com/) – restaking and AVS infrastructure.
 
 - **Perps, options & leverage**
   - [GMX Docs](https://gmxio.gitbook.io/gmx/) – perp DEX design and tokenomics.
@@ -245,15 +270,29 @@ PRs are very welcome – add anything you’ve personally found useful.
 - **RWA & stablecoins**
   - [MakerDAO Docs](https://docs.makerdao.com/) – DAI, vaults, RWA collateral.
   - [Frax Docs](https://docs.frax.finance/) – FRAX, frxETH, sfrxETH, Fraxlend.
+  - [Reserve Protocol Docs](https://docs.reserve.org/) – RWA-backed stablecoin design.
+  - [Ondo Finance](https://ondo.finance/) – tokenized real-world assets.
 
 - **Account abstraction & intents**
   - [ERC‑4337 spec](https://eips.ethereum.org/EIPS/eip-4337)
   - [StackUp ERC‑4337 docs](https://docs.stackup.sh/docs) – practical AA dev guide.
+  - [Safe (Gnosis Safe) Docs](https://docs.safe.global/) – smart account and modules.
+  - [Biconomy SDK](https://docs.biconomy.io/) – AA SDK and paymasters.
+  - [Account Abstraction Explained](https://www.alchemy.com/overviews/account-abstraction) – AA concepts and examples.
 
 - **L2s & rollups**
   - [Optimism Docs](https://community.optimism.io/docs/) – OP Stack architecture.
   - [Arbitrum Docs](https://docs.arbitrum.io/) – Nitro rollup design.
   - [zkSync Docs](https://docs.zksync.io/) – zk rollup contracts & architecture.
+  - [Base Docs](https://docs.base.org/) – Coinbase L2 (OP Stack).
+  - [Blast Docs](https://docs.blast.io/) – native yield L2.
+  - [L2BEAT](https://l2beat.com/) – L2 comparison and risk analysis.
+
+- **Token standards & ERCs**
+  - [ERC-4626 (Vaults)](https://eips.ethereum.org/EIPS/eip-4626) – tokenized vault standard.
+  - [ERC-5192 (Soulbound)](https://eips.ethereum.org/EIPS/eip-5192) – non-transferable NFTs.
+  - [EIP-712 (Typed structured data)](https://eips.ethereum.org/EIPS/eip-712) – human-readable signed messages.
+  - [Token Lists](https://tokenlists.org/) – community token list standard.
 
 ---
 
@@ -342,6 +381,9 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) – date/time utilities.
   - [Merkle Tree](https://github.com/OpenZeppelin/merkle-tree) – Merkle proof verification.
   - [Enumerable Set](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/structs/EnumerableSet.sol) – efficient set operations.
+  - [Compact Merkle Multiproofs](https://github.com/OpenZeppelin/merkle-tree#multi-proofs) – batch Merkle verification.
+  - [Solidity Bytes Utils](https://github.com/GNSPS/solidity-bytes-utils) – bytes manipulation.
+  - [Multicall3](https://github.com/mds1/multicall) – aggregate multiple contract calls.
 
 - **Tooling**
   - [Foundry](https://github.com/foundry-rs/foundry) – forge/cast/anvil.
@@ -352,6 +394,9 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Scaffold-ETH Hardhat](https://github.com/scaffold-eth/scaffold-eth) – Hardhat version.
   - [Waffle](https://github.com/EthWorks/Waffle) – testing framework.
   - [DappTools](https://github.com/dapphub/dapptools) – Unix-style dev tools.
+  - [Chisel](https://github.com/foundry-rs/foundry/blob/master/crates/chisel) – Solidity REPL (Foundry).
+  - [Remix](https://remix.ethereum.org/) – browser-based IDE.
+  - [Sourcify](https://sourcify.dev/) – contract metadata verification.
 
 - **Testing & debugging**
   - [Foundry Book](https://book.getfoundry.sh/) – comprehensive Foundry guide.
@@ -377,6 +422,7 @@ PRs are very welcome – add anything you’ve personally found useful.
 
 - **Design patterns & best practices**
   - [Solidity Patterns](https://github.com/fravoll/solidity-patterns) – common design patterns.
+  - [Sol2uml](https://github.com/naddison36/sol2uml) – generate UML diagrams from Solidity.
   - [Proxy Patterns](https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies) – upgradeability patterns.
   - [Diamond Pattern](https://eips.ethereum.org/EIPS/eip-2535) – modular upgradeable contracts.
   - [Minimal Proxy (EIP-1167)](https://eips.ethereum.org/EIPS/eip-1167) – gas-efficient clones.
@@ -393,6 +439,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [r/ethdev](https://www.reddit.com/r/ethdev/) – Ethereum development subreddit.
   - [Ethereum Research](https://ethresear.ch/) – research discussions.
   - [CryptoDevHub](https://cryptodevhub.io/) – community and resources.
+  - [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/) – EIP discussion forum.
 
 - **Newsletters & blogs**
   - [Week in Ethereum News](https://weekinethereumnews.com/) – weekly Ethereum updates.
@@ -405,12 +452,15 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Scaffold-ETH Examples](https://github.com/scaffold-eth/scaffold-eth-examples) – dApp templates.
   - [Solidity Examples](https://github.com/ethereum/solidity-examples) – official examples.
   - [Awesome Solidity](https://github.com/bkrem/awesome-solidity) – curated Solidity resources.
+  - [Solidity Koans](https://github.com/naddison36/solidity-koans) – TDD-style Solidity exercises.
+  - [Foundry Template](https://github.com/foundry-rs/foundry/tree/master/template) – minimal Foundry starter.
 
 - **EVM & low-level**
   - [EVM Opcodes](https://www.evm.codes/) – interactive opcode reference.
   - [EVM Playground](https://www.evm.codes/playground) – test EVM bytecode.
   - [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) – Ethereum protocol spec.
   - [EVM Deep Dives](https://noxx3xxon.notion.site/noxx3xxon/EVM-Deep-Dives-b76f1c3d14764a20995e4a4e8a4fbc1a) – EVM internals.
+  - [Solidity Memory Layout](https://docs.soliditylang.org/en/latest/internals/layout_in_memory.html) – memory/storage layout.
 
 ---
 
@@ -819,7 +869,7 @@ PRs are very welcome – add anything you’ve personally found useful.
 
 - **Browsing**: scroll through the protocol table, pick a protocol, and deep‑dive into its repo + docs.
 - **Learning**: pair a learning resource with a protocol implementation (e.g. read lending docs + Aave code).
-- **Security practice**: pick a vuln from SWC, find it in real audits, then look at the actual protocol code.
+- **Security practice**: pick a vuln from [SWC](https://swcregistry.io/), solve [Ethernaut](https://ethernaut.openzeppelin.com/) and [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/), then look at real protocol code.
 - **Building**: use the tooling section to set up your dev environment, then reference design patterns and libraries.
 
 If you have a favorite link, thread, paper, or repo – add it here.
