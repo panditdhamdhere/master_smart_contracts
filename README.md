@@ -87,6 +87,7 @@ PRs are very welcome – add anything you’ve personally found useful.
 | **Reserve**      | Stablecoin / RWA | https://github.com/reserve-protocol/protocol          | [Docs](https://docs.reserve.org/)                               | N/A                                                                             |
 | **Hyperliquid**  | Perps            | https://github.com/hyperliquid-dex/hyperliquid-contracts | [Docs](https://hyperliquid.gitbook.io/hyperliquid-docs)     | N/A                                                                             |
 | **LooksRare**    | NFT Marketplace  | https://github.com/LooksRare/contracts-libs           | [Docs](https://docs.looksrare.org/)                             | N/A                                                                             |
+| **Aave V4**      | Lending          | https://github.com/aave/aave-v4                       | [Docs](https://docs.aave.com/)                                  | N/A                                                                             |
 
 ---
 
@@ -104,6 +105,10 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Alchemy Road to Web3](https://www.alchemy.com/road-to-web3) – project‑based Web3 tutorials.
   - [Web3 University](https://www.web3.university/) – curated Web3 learning paths.
   - [Pointer.gg Solidity](https://www.pointer.gg/) – interactive Solidity challenges.
+  - [OpenZeppelin Learn](https://docs.openzeppelin.com/learn/developing-smart-contracts) – developing smart contracts with OZ.
+  - [Solidity Bootcamp](https://solidity.university/solidity-bootcamp-welcome/) – structured 3‑month program (Solidity University).
+  - [Udacity Blockchain with Solidity](https://www.udacity.com/course/blockchain-with-solidity--cd13282) – intermediate course with collateralized loan project.
+  - [Hardhat Writing & Testing Tutorial](https://hardhat.org/docs/tutorial/writing-and-testing) – hands-on contract development.
 
 - **DeFi / advanced patterns**
   - [Paradigm research posts](https://www.paradigm.xyz) – design‑level thinking about DeFi protocols.
@@ -162,6 +167,11 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) – security guidelines.
   - [Secureum](https://secureum.xyz/) – security education and resources.
   - [Ethereum Security](https://ethereum.org/en/developers/docs/security/) – official security docs.
+  - [OWASP Smart Contract Security (SCSVS)](https://scs.owasp.org/) – industry security verification standard.
+  - [OWASP SCSTG](https://scs.owasp.org/SCSTG/) – Smart Contract Security Testing Guide.
+  - [OWASP SCS Checklist](https://scs.owasp.org/checklists/) – interactive verification checklist.
+  - [Ethereum.org Security Tools Guide](https://ethereum.org/en/developers/tutorials/guide-to-smart-contract-security-tools/) – Slither, Echidna, Manticore workflow.
+  - [Secure Development Workflow](https://ethereum.org/en/developers/tutorials/secure-development-workflow/) – checklist and best practices.
 
 - **Vulnerability databases & incident tracking**
   - [SWC Registry](https://swcregistry.io/) – Smart Contract Weakness Classification.
@@ -275,9 +285,12 @@ PRs are very welcome – add anything you’ve personally found useful.
 
 - **Account abstraction & intents**
   - [ERC‑4337 spec](https://eips.ethereum.org/EIPS/eip-4337)
+  - [ERC‑4337 Documentation](https://docs.erc4337.io/) – official AA technical docs.
+  - [ERC‑6900 (Modular accounts)](https://erc6900.io/) – modular smart account standard.
   - [StackUp ERC‑4337 docs](https://docs.stackup.sh/docs) – practical AA dev guide.
   - [Safe (Gnosis Safe) Docs](https://docs.safe.global/) – smart account and modules.
   - [Biconomy SDK](https://docs.biconomy.io/) – AA SDK and paymasters.
+  - [OpenZeppelin Account Abstraction](https://docs.openzeppelin.com/contracts/5.x/account-abstraction) – OZ AA implementation.
   - [Account Abstraction Explained](https://www.alchemy.com/overviews/account-abstraction) – AA concepts and examples.
 
 - **L2s & rollups**
@@ -293,6 +306,14 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [ERC-5192 (Soulbound)](https://eips.ethereum.org/EIPS/eip-5192) – non-transferable NFTs.
   - [EIP-712 (Typed structured data)](https://eips.ethereum.org/EIPS/eip-712) – human-readable signed messages.
   - [Token Lists](https://tokenlists.org/) – community token list standard.
+
+- **MEV (Maximal Extractable Value)**
+  - [Flashbots Docs](https://docs.flashbots.net/) – MEV infrastructure and research.
+  - [New to MEV?](https://docs.flashbots.net/new-to-mev) – intro reading list (MEV-Explore, Dark Forest, samczsun).
+  - [Ethereum is a Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest) – Paradigm on MEV risks.
+  - [Escaping the Dark Forest](https://samczsun.com/escaping-the-dark-forest/) – samczsun on rescue transactions.
+  - [MEV-Share Tutorials](https://docs.flashbots.net/flashbots-mev-share/searchers/tutorials) – limit order and searcher guides.
+  - [MEV Research Vault](https://docs.flashbots.net/flashbots-mev-boost/resources) – Flashbots resource hub.
 
 ---
 
@@ -411,6 +432,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Gas Golfing Guide](https://github.com/0xKitsune/gas-golfing) – extreme optimization.
   - [Gas Station Network](https://www.opengsn.org/) – meta-transactions for gasless UX.
   - [4naly3er](https://github.com/Picodes/4naly3er) – automated gas reports.
+  - [GasBad](https://github.com/ecivini/gas-bad) – gas efficiency comparison for Solidity libraries.
 
 - **Deployment & infrastructure**
   - [OpenZeppelin Defender](https://defender.openzeppelin.com/) – secure operations platform.
@@ -628,7 +650,9 @@ PRs are very welcome – add anything you’ve personally found useful.
 
 - **Oracles & data feeds**
   - [Chainlink](https://docs.chain.link/) – decentralized oracle network.
-  - [Pyth Network](https://docs.pyth.network/) – price oracle network.
+  - [Pyth Network](https://docs.pyth.network/) – price oracle network (pull model, 400ms updates).
+  - [Pyth EVM Integration](https://docs.pyth.network/price-feeds/pro/integrate-as-consumer/evm) – integrate Pyth in EVM contracts.
+  - [Pyth Chainlink Migration](https://docs.pyth.network/price-feeds/migrate-an-app-to-pyth/chainlink) – migrate from Chainlink to Pyth.
   - [UMA](https://docs.umaproject.org/) – optimistic oracle.
   - [API3](https://docs.api3.org/) – first-party oracles.
   - [Band Protocol](https://docs.bandchain.org/) – cross-chain oracle.
