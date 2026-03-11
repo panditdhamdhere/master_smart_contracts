@@ -88,6 +88,8 @@ PRs are very welcome – add anything you’ve personally found useful.
 | **Hyperliquid**  | Perps            | https://github.com/hyperliquid-dex/hyperliquid-contracts | [Docs](https://hyperliquid.gitbook.io/hyperliquid-docs)     | N/A                                                                             |
 | **LooksRare**    | NFT Marketplace  | https://github.com/LooksRare/contracts-libs           | [Docs](https://docs.looksrare.org/)                             | N/A                                                                             |
 | **Aave V4**      | Lending          | https://github.com/aave/aave-v4                       | [Docs](https://docs.aave.com/)                                  | N/A                                                                             |
+| **Panoptic**     | Options (Uniswap)| https://github.com/panoptic-labs/panoptic-v2-core     | [Docs](https://docs.panoptic.xyz/)                              | N/A                                                                             |
+| **Venus**        | Lending          | https://github.com/VenusProtocol/venus-protocol       | [Docs](https://docs.venus.io/)                                  | N/A                                                                             |
 
 ---
 
@@ -109,6 +111,8 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Solidity Bootcamp](https://solidity.university/solidity-bootcamp-welcome/) – structured 3‑month program (Solidity University).
   - [Udacity Blockchain with Solidity](https://www.udacity.com/course/blockchain-with-solidity--cd13282) – intermediate course with collateralized loan project.
   - [Hardhat Writing & Testing Tutorial](https://hardhat.org/docs/tutorial/writing-and-testing) – hands-on contract development.
+  - [Blockchain Council Smart Contract Roadmap](https://www.blockchain-council.org/blockchain/smart-contract-developer/) – structured path from beginner to expert.
+  - [Awesome Solidity (solidity-developer)](https://github.com/solidity-developer/awesome-solidity) – curated Solidity resource list.
 
 - **DeFi / advanced patterns**
   - [Paradigm research posts](https://www.paradigm.xyz) – design‑level thinking about DeFi protocols.
@@ -219,6 +223,9 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [MythX](https://mythx.io/) – security analysis API.
   - [Securify](https://securify.chainsecurity.com/) – security scanner.
   - [Oyente](https://github.com/melonproject/oyente) – static analysis tool.
+  - [SolidityGuard](https://github.com/alt-research/SolidityGuard) – multi-tool security auditor (Slither, Mythril, Echidna, Halmos, etc.).
+  - [Slither API](https://crytic.github.io/slither/) – programmatic Slither analysis and custom detectors.
+  - [Aderyn](https://github.com/cyfrin/aderyn) – Rust-based static analyzer (Cyfrin); custom detectors, VS Code extension.
 
 - **Security monitoring & incident response**
   - [Forta](https://forta.org/) – decentralized security monitoring.
@@ -275,6 +282,7 @@ PRs are very welcome – add anything you’ve personally found useful.
 - **Perps, options & leverage**
   - [GMX Docs](https://gmxio.gitbook.io/gmx/) – perp DEX design and tokenomics.
   - [Lyra Docs](https://docs.lyra.finance/) – options AMM mechanics.
+  - [Panoptic Docs](https://docs.panoptic.xyz/) – perpetual options on Uniswap V3/V4.
   - [Synthetix Docs](https://docs.synthetix.io/) – perps + synthetic assets infra.
 
 - **RWA & stablecoins**
@@ -292,6 +300,11 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Biconomy SDK](https://docs.biconomy.io/) – AA SDK and paymasters.
   - [OpenZeppelin Account Abstraction](https://docs.openzeppelin.com/contracts/5.x/account-abstraction) – OZ AA implementation.
   - [Account Abstraction Explained](https://www.alchemy.com/overviews/account-abstraction) – AA concepts and examples.
+
+- **Intents & order flow**
+  - [CoW Protocol Intents](https://docs.cow.fi/cow-protocol/concepts/introduction/intents) – intent-based trading design.
+  - [CoW Hooks](https://docs.cow.fi/cow-protocol/concepts/benefits/trade-any-intent) – programmable pre/post-trade actions.
+  - [ERC-7683 (Cross-chain intents)](https://eips.ethereum.org/EIPS/eip-7683) – cross-chain intent standard.
 
 - **L2s & rollups**
   - [Optimism Docs](https://community.optimism.io/docs/) – OP Stack architecture.
