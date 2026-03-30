@@ -295,6 +295,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [ERC‑4337 spec](https://eips.ethereum.org/EIPS/eip-4337)
   - [ERC‑4337 Documentation](https://docs.erc4337.io/) – official AA technical docs.
   - [ERC‑6900 (Modular accounts)](https://erc6900.io/) – modular smart account standard.
+  - [ERC‑7579 (Minimal modular accounts)](https://eips.ethereum.org/EIPS/eip-7579) – interoperability standard for account modules.
   - [StackUp ERC‑4337 docs](https://docs.stackup.sh/docs) – practical AA dev guide.
   - [Safe (Gnosis Safe) Docs](https://docs.safe.global/) – smart account and modules.
   - [Biconomy SDK](https://docs.biconomy.io/) – AA SDK and paymasters.
@@ -318,6 +319,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [ERC-4626 (Vaults)](https://eips.ethereum.org/EIPS/eip-4626) – tokenized vault standard.
   - [ERC-5192 (Soulbound)](https://eips.ethereum.org/EIPS/eip-5192) – non-transferable NFTs.
   - [EIP-712 (Typed structured data)](https://eips.ethereum.org/EIPS/eip-712) – human-readable signed messages.
+  - [Ethereum Attestation Service (EAS)](https://docs.attest.sh/) – attestations infrastructure and schemas.
   - [Token Lists](https://tokenlists.org/) – community token list standard.
 
 - **MEV (Maximal Extractable Value)**
@@ -404,6 +406,7 @@ PRs are very welcome – add anything you’ve personally found useful.
 - **Standards**
   - [EIPs](https://eips.ethereum.org/) – ERC‑20, ERC‑721, ERC‑1155, ERC‑4626, ERC‑4337, etc.
   - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) – reference implementations.
+  - [OpenZeppelin Contracts API](https://docs.openzeppelin.com/contracts/5.x/api) – canonical API reference for OZ primitives.
 
 - **Libraries**
   - [Solmate](https://github.com/transmissions11/solmate) – gas-optimized building blocks.
@@ -634,6 +637,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Erigon](https://github.com/ledgerwatch/erigon) – efficient Ethereum client.
   - [Nethermind](https://nethermind.io/) – .NET Ethereum client.
   - [Besu](https://besu.hyperledger.org/) – Java Ethereum client.
+  - [Reth](https://reth.rs/overview/) – modular Rust Ethereum execution client.
   - [Node Monitoring](https://ethereum.org/en/developers/docs/nodes-and-clients/node-monitoring/) – monitoring guides.
   - [MEV-Boost](https://boost.flashbots.net/) – MEV infrastructure.
 
@@ -650,6 +654,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Wormhole](https://docs.wormhole.com/) – cross-chain messaging.
   - [LayerZero](https://docs.layerzero.network/) – omnichain interoperability.
   - [Axelar](https://docs.axelar.dev/) – cross-chain communication.
+  - [Hyperlane](https://docs.hyperlane.xyz/docs/protocol/protocol-overview) – permissionless interoperability protocol.
   - [IBC Protocol](https://ibc.cosmos.network/) – Inter-Blockchain Communication.
   - [Polkadot XCM](https://wiki.polkadot.network/docs/xcm-overview) – cross-consensus messaging.
 
