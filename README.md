@@ -55,37 +55,37 @@ PRs are very welcome – add anything you’ve personally found useful.
 | **Conditional Tokens**     | Token          | https://github.com/gnosis/conditional-tokens-contracts | [Docs](https://conditional-tokens.readthedocs.io/en/latest/index.html)                           | N/A                                                                             |
 | **Curve**        | DEX              | https://github.com/curvefi/curve-contract             | [Docs](https://docs.curve.fi/)                                  | N/A                                                                             |
 | **EigenLayer**   | Restaking        | https://github.com/Layr-Labs/eigenlayer-contracts     | [Docs](https://docs.eigenlayer.xyz)                             | N/A                                                                             |
-| **MakerDAO**     | Stablecoin       | https://github.com/makerdao/dss                       | [Docs](https://docs.makerdao.com/)                              | N/A                                                                             |
+| **MakerDAO**     | Stablecoin       | https://github.com/sky-ecosystem/dss                       | [Docs](https://docs.makerdao.com/)                              | N/A                                                                             |
 | **Maple**        | Lending          | https://github.com/maple-labs/maple-core-v2           | [Docs](https://docs.maple.finance/)                             | [Youtube](https://www.youtube.com/watch?v=nG_QTMGVL3U&t=2358s&ab_channel=shafu) |
 | **Merit**        | Escrow           | https://github.com/Merit-Systems/contracts            | [Docs](https://www.merit.systems/docs)                          | [Youtube](https://www.youtube.com/watch?v=-Lqn4mx8eRY&ab_channel=shafu)         |
-| **Sablier V2**   | Streaming        | https://github.com/sablier-labs/v2-core               | [Docs](https://docs.sablier.com)                                | [Youtube](https://www.youtube.com/watch?v=Mh0akz5ybZ8&t=11s&ab_channel=shafu)   |
+| **Sablier V2**   | Streaming        | https://github.com/sablier-labs/evm-monorepo               | [Docs](https://docs.sablier.com)                                | [Youtube](https://www.youtube.com/watch?v=Mh0akz5ybZ8&t=11s&ab_channel=shafu)   |
 | **Seaport**      | NFT Marketplace  | https://github.com/ProjectOpenSea/seaport             | [Docs](https://docs.opensea.io/v2.0/reference/seaport-overview) | [Youtube](https://www.youtube.com/watch?v=mvRrRV_eNLQ&ab_channel=shafu)         |
 | **🐍 snekmate**  | Library          | https://github.com/pcaversaccio/snekmate              | [Docs](https://github.com/pcaversaccio/snekmate#readme)         | N/A                                                                             |
 | **Solady**       | Library          | https://github.com/Vectorized/solady                  | [Docs](https://github.com/Vectorized/solady#readme)             | N/A                                                                             |
 | **Solmate**      | Library          | https://github.com/transmissions11/solmate            | [Docs](https://github.com/transmissions11/solmate#readme)       | N/A                                                                             |
-| **Synthetix**    | Derivatives      | https://github.com/Synthetixio/synthetix              | [Docs](https://docs.synthetix.io/)                              | N/A                                                                             |
-| **Uniswap V2**   | DEX              | https://github.com/Uniswap/uniswap-v2-core            | [Docs](https://docs.uniswap.org/)                               | N/A                                                                             |
+| **Synthetix**    | Derivatives      | https://github.com/Synthetixio/synthetix-v3              | [Docs](https://docs.synthetix.io/)                              | N/A                                                                             |
+| **Uniswap V2**   | DEX              | https://github.com/Uniswap/v2-core            | [Docs](https://docs.uniswap.org/)                               | N/A                                                                             |
 | **Uniswap V3**   | DEX              | https://github.com/Uniswap/v3-core                    | [Docs](https://docs.uniswap.org/protocol/V3/introduction)       | N/A                                                                             |
 | **Uniswap V4**   | DEX              | https://github.com/Uniswap/v4-core                    | [Docs](https://docs.uniswap.org/contracts/v4/overview)          | N/A                                                                             |
 | **Yearn V3**     | Yield Farming    | https://github.com/yearn/yearn-vaults-v3              | [Docs](https://docs.yearn.fi/developers/v3/overview)            | N/A                                                                             |
 | **Morpho Blue**  | Lending          | https://github.com/morpho-org/morpho-blue             | [Docs](https://docs.morpho.org/)                                | N/A                                                                             |
-| **Lido**         | Liquid Staking   | https://github.com/lidofinance/lido-dao               | [Docs](https://docs.lido.fi/)                                   | N/A                                                                             |
+| **Lido**         | Liquid Staking   | https://github.com/lidofinance/core               | [Docs](https://docs.lido.fi/)                                   | N/A                                                                             |
 | **Rocket Pool**  | Liquid Staking   | https://github.com/rocket-pool/rocketpool             | [Docs](https://docs.rocketpool.net/)                            | N/A                                                                             |
 | **Pendle V2**    | Yield Trading    | https://github.com/pendle-finance/pendle-core-v2-public | [Docs](https://docs.pendle.finance/)                          | N/A                                                                             |
 | **GMX**          | Perps / DEX      | https://github.com/gmx-io/gmx-contracts               | [Docs](https://gmxio.gitbook.io/gmx/)                           | N/A                                                                             |
-| **Lyra**         | Options AMM      | https://github.com/lyra-finance/lyra-protocol         | [Docs](https://docs.lyra.finance/)                              | N/A                                                                             |
+| **Lyra**         | Options AMM      | https://github.com/derivexyz/v1-core         | [Docs](https://docs.lyra.finance/)                              | N/A                                                                             |
 | **Notional**     | Fixed-Rate Lending | https://github.com/notional-finance/contracts-v2    | [Docs](https://docs.notional.finance/)                          | N/A                                                                             |
 | **Gearbox**      | Leveraged DeFi   | https://github.com/Gearbox-protocol/core-v2           | [Docs](https://docs.gearbox.fi/)                                | N/A                                                                             |
 | **Frax**         | Stablecoin / LSD | https://github.com/FraxFinance/frax-solidity          | [Docs](https://docs.frax.finance/)                              | N/A                                                                             |
-| **Spark**        | Lending          | https://github.com/marsfoundation/sparklend           | [Docs](https://docs.spark.fi/)                                  | N/A                                                                             |
+| **Spark**        | Lending          | https://github.com/sparkdotfi/sparklend-deployments           | [Docs](https://docs.spark.fi/)                                  | N/A                                                                             |
 | **dYdX V4**      | Perps            | https://github.com/dydxprotocol/v4-chain              | [Docs](https://docs.dydx.exchange/)                             | N/A                                                                             |
-| **1inch**        | DEX Aggregator   | https://github.com/1inch/fusion-resolver              | [Docs](https://docs.1inch.io/)                                  | N/A                                                                             |
+| **1inch**        | DEX Aggregator   | https://github.com/1inch/limit-order-protocol              | [Docs](https://docs.1inch.io/)                                  | N/A                                                                             |
 | **Blur**         | NFT Marketplace  | https://github.com/blur-io/exchange                   | [Docs](https://docs.blur.foundation/)                           | N/A                                                                             |
 | **Cowswap**      | DEX Aggregator   | https://github.com/cowprotocol/contracts              | [Docs](https://docs.cow.fi/)                                    | N/A                                                                             |
 | **Angle**        | Stablecoin       | https://github.com/AngleProtocol/angle-core           | [Docs](https://docs.angle.money/)                               | N/A                                                                             |
-| **Prisma**       | Liquid Restaking | https://github.com/prisma-fi/prisma-core              | [Docs](https://docs.prismafinance.com/)                         | N/A                                                                             |
+| **Prisma**       | Liquid Restaking | https://github.com/prisma-fi/prisma-contracts              | [Docs](https://docs.prismafinance.com/)                         | N/A                                                                             |
 | **Reserve**      | Stablecoin / RWA | https://github.com/reserve-protocol/protocol          | [Docs](https://docs.reserve.org/)                               | N/A                                                                             |
-| **Hyperliquid**  | Perps            | https://github.com/hyperliquid-dex/hyperliquid-contracts | [Docs](https://hyperliquid.gitbook.io/hyperliquid-docs)     | N/A                                                                             |
+| **Hyperliquid**  | Perps            | https://github.com/hyperliquid-dex/contracts | [Docs](https://hyperliquid.gitbook.io/hyperliquid-docs)     | N/A                                                                             |
 | **LooksRare**    | NFT Marketplace  | https://github.com/LooksRare/contracts-libs           | [Docs](https://docs.looksrare.org/)                             | N/A                                                                             |
 | **Aave V4**      | Lending          | https://github.com/aave/aave-v4                       | [Docs](https://docs.aave.com/)                                  | N/A                                                                             |
 | **Panoptic**     | Options (Uniswap)| https://github.com/panoptic-labs/panoptic-v2-core     | [Docs](https://docs.panoptic.xyz/)                              | N/A                                                                             |
@@ -100,7 +100,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [CryptoZombies](https://cryptozombies.io/) – gamified intro to Solidity.
   - [Solidity Docs](https://docs.soliditylang.org/en/latest/) – the actual language spec.
   - [Ethereum Developer Docs](https://ethereum.org/en/developers/docs/) – broader EVM background.
-  - [Learn Solidity](https://www.learnsolidity.io/) – interactive Solidity course.
+  - [Learn Solidity](https://solidity-by-example.org/) – interactive Solidity course.
   - [Ethereum.org Learn](https://ethereum.org/en/developers/learning-tools/) – curated learning paths.
   - [Speed Run Ethereum](https://speedrunethereum.com/) – build DeFi dApps step-by-step.
   - [Patrick Collins freeCodeCamp](https://www.youtube.com/watch?v=umepbfKp5rI) – 16‑hour Solidity course.
@@ -152,7 +152,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Finematics](https://www.youtube.com/@Finematics) – DeFi concepts explained simply.
   - [Patrick Collins (freeCodeCamp)](https://www.youtube.com/@freecodecamp) – full Solidity courses.
   - [Will it Scale](https://www.youtube.com/@willitscale) – protocol deep dives.
-  - [The Bytecode (shafu)](https://www.youtube.com/@shafu) – protocol walkthrough series.
+  - [The Bytecode (shafu)](https://www.youtube.com/@shafu0x) – protocol walkthrough series.
 
 ---
 
@@ -210,19 +210,19 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Slither](https://github.com/crytic/slither) – static analysis.
   - [Echidna](https://github.com/crytic/echidna) – property‑based / fuzz testing.
   - [Foundry](https://github.com/foundry-rs/foundry) – fast testing, fuzzing, and deployment.
-  - [Mythril](https://github.com/Consensys/mythril) – security analysis framework.
+  - [Mythril](https://github.com/ConsenSysDiligence/mythril) – security analysis framework.
   - [Manticore](https://github.com/trailofbits/manticore) – symbolic execution tool.
   - [Medusa](https://github.com/crytic/medusa) – fuzzing framework.
   - [Halmos](https://github.com/a16z/halmos) – symbolic testing for Foundry.
   - [Certora](https://www.certora.com/) – formal verification (commercial).
   - [Tenderly](https://tenderly.co/) – debugging and monitoring.
   - [4naly3er](https://github.com/Picodes/4naly3er) – gas optimization analyzer.
-  - [Scribble](https://github.com/Consensys/scribble) – specification language for fuzzing.
+  - [Scribble](https://github.com/ConsenSysDiligence/scribble) – specification language for fuzzing.
   - [Diligence Fuzzing](https://github.com/crytic/building-secure-contracts) – fuzzing guide.
-  - [Surya](https://github.com/Consensys/surya) – contract analysis tool.
+  - [Surya](https://github.com/ConsenSysDiligence/surya) – contract analysis tool.
   - [MythX](https://mythx.io/) – security analysis API.
-  - [Securify](https://securify.chainsecurity.com/) – security scanner.
-  - [Oyente](https://github.com/melonproject/oyente) – static analysis tool.
+  - [Securify](https://chainsecurity.com/) – security scanner.
+  - [Oyente](https://github.com/enzymefinance/oyente) – static analysis tool.
   - [SolidityGuard](https://github.com/alt-research/SolidityGuard) – multi-tool security auditor (Slither, Mythril, Echidna, Halmos, etc.).
   - [Slither API](https://crytic.github.io/slither/) – programmatic Slither analysis and custom detectors.
   - [Aderyn](https://github.com/cyfrin/aderyn) – Rust-based static analyzer (Cyfrin); custom detectors, VS Code extension.
@@ -240,18 +240,18 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [a16z Crypto Security](https://a16zcrypto.com/tag/security/) – security insights.
   - [Paradigm Security](https://www.paradigm.xyz/security) – security research.
   - [IACR Cryptology ePrint](https://eprint.iacr.org/) – cryptography papers.
-  - [Security Research Papers](https://github.com/pcaversaccio/security-research-papers) – curated security papers.
+  - [Security Research Papers](https://github.com/ethereum/research) – curated security papers.
 
 - **Formal verification**
   - [Certora Prover](https://www.certora.com/) – formal verification tool.
   - [K Framework](https://kframework.org/) – formal verification framework.
   - [KEVM](https://github.com/runtimeverification/evm-semantics) – formal semantics of EVM.
-  - [Act](https://github.com/ethereum/act) – specification language for smart contracts.
+  - [Act](https://github.com/argotorg/act) – specification language for smart contracts.
   - [Dafny](https://github.com/dafny-lang/dafny) – verification-aware programming language.
   - [Why3](https://why3.lri.fr/) – platform for deductive program verification.
 
 - **Security checklists & guides**
-  - [Smart Contract Security Checklist](https://github.com/sigp/smart-contract-security-checklist) – comprehensive checklist.
+  - [Smart Contract Security Checklist](https://github.com/nascentxyz/simple-security-toolkit) – comprehensive checklist.
   - [Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) – Consensys guide.
   - [Pre-Audit Checklist](https://github.com/nascentxyz/simple-security-toolkit) – pre-audit preparation.
   - [Security Standards](https://github.com/ConsenSys/smart-contract-best-practices) – best practices.
@@ -356,7 +356,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Circom](https://github.com/iden3/circom) – circuit compiler.
   - [SnarkJS](https://github.com/iden3/snarkjs) – JavaScript zkSNARK toolkit.
   - [Arkworks](https://arkworks.rs/) – Rust ZK proof libraries.
-  - [Bellman](https://github.com/zcash/bellman) – Rust zkSNARK library.
+  - [Bellman](https://github.com/zkcrypto/bellman) – Rust zkSNARK library.
   - [gnark](https://github.com/Consensys/gnark) – Go ZK proof library.
   - [Noir](https://noir-lang.org/) – ZK DSL by Aztec.
   - [Leo](https://www.aleo.org/post/leo) – ZK programming language.
@@ -382,7 +382,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Circom Compiler](https://github.com/iden3/circom) – compile circuits.
   - [Circomlib](https://github.com/iden3/circomlib) – circuit templates.
   - [Powers of Tau](https://github.com/weijiekoh/perpetualpowersoftau) – trusted setup ceremony.
-  - [Circom Snarkjs Template](https://github.com/iden3/circom-starter) – starter project.
+  - [Circom Snarkjs Template](https://github.com/iden3/snarkjs) – starter project.
   - [Hardhat Circom](https://github.com/projectsophon/hardhat-circom) – Hardhat plugin for Circom.
   - [Circomkit](https://github.com/erhant/circomkit) – Circom development toolkit.
 
@@ -395,7 +395,7 @@ PRs are very welcome – add anything you’ve personally found useful.
 
 - **ZK in production**
   - [zkSync Contracts](https://github.com/matter-labs/zksync) – zkSync smart contracts.
-  - [Polygon zkEVM Contracts](https://github.com/0xPolygonHermez/zkevm-contracts) – Polygon zkEVM.
+  - [Polygon zkEVM Contracts](https://github.com/agglayer/agglayer-contracts) – Polygon zkEVM.
   - [Starknet Contracts](https://github.com/starknet-edu/starknet-cairo-101) – Cairo smart contracts.
   - [Aztec Contracts](https://github.com/AztecProtocol/aztec-packages) – Aztec Noir contracts.
 
@@ -420,16 +420,16 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Enumerable Set](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/structs/EnumerableSet.sol) – efficient set operations.
   - [Compact Merkle Multiproofs](https://github.com/OpenZeppelin/merkle-tree#multi-proofs) – batch Merkle verification.
   - [Solidity Bytes Utils](https://github.com/GNSPS/solidity-bytes-utils) – bytes manipulation.
-  - [Multicall3](https://github.com/mds1/multicall) – aggregate multiple contract calls.
+  - [Multicall3](https://github.com/mds1/multicall3) – aggregate multiple contract calls.
 
 - **Tooling**
   - [Foundry](https://github.com/foundry-rs/foundry) – forge/cast/anvil.
   - [Hardhat](https://github.com/NomicFoundation/hardhat) – development environment.
   - [Brownie](https://github.com/eth-brownie/brownie) – Python-based framework.
-  - [Truffle](https://github.com/trufflesuite/truffle) – legacy but still used.
+  - [Truffle](https://github.com/ConsenSys-archive/truffle) – legacy but still used.
   - [Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth-2) – quickstart dApp template.
   - [Scaffold-ETH Hardhat](https://github.com/scaffold-eth/scaffold-eth) – Hardhat version.
-  - [Waffle](https://github.com/EthWorks/Waffle) – testing framework.
+  - [Waffle](https://github.com/TrueFiEng/Waffle) – testing framework.
   - [DappTools](https://github.com/dapphub/dapptools) – Unix-style dev tools.
   - [Chisel](https://github.com/foundry-rs/foundry/blob/master/crates/chisel) – Solidity REPL (Foundry).
   - [Remix](https://remix.ethereum.org/) – browser-based IDE.
@@ -454,7 +454,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [OpenZeppelin Defender](https://defender.openzeppelin.com/) – secure operations platform.
   - [Hardhat Deploy](https://github.com/wighawag/hardhat-deploy) – deployment plugin.
   - [Hardhat Upgrades](https://docs.openzeppelin.com/upgrades-plugins/1.x/) – upgradeable contracts.
-  - [Multicall](https://github.com/makerdao/multicall) – batch multiple calls.
+  - [Multicall](https://github.com/sky-ecosystem/multicall) – batch multiple calls.
   - [Create2](https://eips.ethereum.org/EIPS/eip-1014) – deterministic contract addresses.
   - [Etherscan Verify](https://docs.etherscan.io/) – contract verification.
 
@@ -491,7 +491,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Solidity Examples](https://github.com/ethereum/solidity-examples) – official examples.
   - [Awesome Solidity](https://github.com/bkrem/awesome-solidity) – curated Solidity resources.
   - [Solidity Koans](https://github.com/naddison36/solidity-koans) – TDD-style Solidity exercises.
-  - [Foundry Template](https://github.com/foundry-rs/foundry/tree/master/template) – minimal Foundry starter.
+  - [Foundry Template](https://github.com/foundry-rs/forge-template) – minimal Foundry starter.
 
 - **EVM & low-level**
   - [EVM Opcodes](https://www.evm.codes/) – interactive opcode reference.
@@ -582,7 +582,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Bouncy Castle](https://www.bouncycastle.org/) – Java/C# crypto library.
   - [Crypto++](https://www.cryptopp.com/) – C++ crypto library.
   - [TweetNaCl](https://tweetnacl.cr.yp.to/) – minimal crypto library.
-  - [Noble](https://github.com/paulmillr/noble) – JavaScript crypto library.
+  - [Noble](https://github.com/paulmillr/noble-curves) – JavaScript crypto library.
   - [secp256k1](https://github.com/bitcoin-core/secp256k1) – Bitcoin's crypto library.
   - [Circom](https://github.com/iden3/circom) – ZK circuit compiler.
 
@@ -634,7 +634,7 @@ PRs are very welcome – add anything you’ve personally found useful.
 - **Node operation & infrastructure**
   - [Running an Ethereum Node](https://ethereum.org/en/developers/docs/nodes-and-clients/) – node setup.
   - [Geth](https://geth.ethereum.org/) – Go Ethereum client.
-  - [Erigon](https://github.com/ledgerwatch/erigon) – efficient Ethereum client.
+  - [Erigon](https://github.com/erigontech/erigon) – efficient Ethereum client.
   - [Nethermind](https://nethermind.io/) – .NET Ethereum client.
   - [Besu](https://besu.hyperledger.org/) – Java Ethereum client.
   - [Reth](https://reth.rs/overview/) – modular Rust Ethereum execution client.
@@ -829,7 +829,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [ETHGlobal](https://ethglobal.com/) – Ethereum hackathons.
   - [Devcon](https://devcon.org/) – Ethereum developer conference.
   - [ETHDenver](https://www.ethdenver.com/) – Ethereum conference.
-  - [Consensus](https://consensus2024.coindesk.com/) – blockchain conference.
+  - [Consensus](https://www.coindesk.com/consensus) – blockchain conference.
   - [Ethereum Community Conference](https://ethcc.io/) – European Ethereum conference.
   - [Solana Breakpoint](https://solana.com/breakpoint) – Solana conference.
   - [Polkadot Decoded](https://decoded.polkadot.network/) – Polkadot conference.
@@ -848,7 +848,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Chainalysis](https://www.chainalysis.com/) – blockchain compliance.
   - [Elliptic](https://www.elliptic.co/) – crypto compliance.
   - [TRM Labs](https://www.trmlabs.com/) – blockchain intelligence.
-  - [CipherTrace](https://ciphertrace.com/) – crypto compliance.
+  - [CipherTrace](https://www.chainalysis.com/) – crypto compliance.
   - [OFAC Sanctions](https://ofac.treasury.gov/) – sanctions compliance.
   - [FATF Guidance](https://www.fatf-gafi.org/) – crypto regulation guidance.
   - [SEC Crypto Framework](https://www.sec.gov/cryptoassets) – SEC guidance.
