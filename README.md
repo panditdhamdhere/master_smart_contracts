@@ -906,6 +906,7 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Crypto Jobs](https://crypto.jobs/) – blockchain jobs.
   - [Remote3](https://remote3.co/) – remote Web3 jobs.
   - [CryptoJobs](https://cryptojobs.com/) – blockchain careers.
+  - [JobsInCrypto](https://jobsincrypto.net/) – 1,000+ manually checked crypto and web3 jobs, plus a talent pool where companies message you first. Free.
 
 ## How to use this repo
 
